@@ -2,3 +2,5 @@ Primeira alteração.
 prof alexandre muito lindo
 aulas engraçadas 
 paciente
+
+utilizando editor externo
